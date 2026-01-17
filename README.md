@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/yashbora18">
+                    <img src="https://avatars.githubusercontent.com/u/119941709?v=4" width="100px;"
+                        alt="Yash Bora" />
+                    <br />
+                    <sub>
+                        <b>Yash Bora</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
